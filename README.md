@@ -14,7 +14,7 @@ Installation
 ------------
 
 ``` bash
-git clone git://github.com/lookupatnight/dotfiles
+git clone https://github.com/lookupatnight/dotfiles
 cd dotfiles
 ./symlinks.sh
 ```
