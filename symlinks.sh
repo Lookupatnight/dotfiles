@@ -19,3 +19,4 @@ for file in $files; do
     echo "$file..."
     ln -s $dir/$file ~/.$file
 done
+echo "Done."
